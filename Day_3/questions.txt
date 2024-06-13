@@ -1,0 +1,23 @@
+Data strutctures and Alogos
+
+Classification:
+
+1. Linear DS:
+  Arrays, Dynamic arrays, linked list, stack, queue, deque et
+
+2. Non- linear DS:
+  BST,AVL,BTree,B+tree,Graph etc
+
+. Arrays --> Static and Dynamic Arrays
+    . Contingous Memory allocation 
+    . Single type  of Data
+    . 
+
+
+Python Prerequisites:
+1. Built in tpyes
+2. Control statements
+3. functions 
+4. Classes and objects 
+5. __init__() and self 
+6. Functions in Class

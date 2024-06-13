@@ -1,0 +1,9 @@
+Day 4
+
+Session 4: Time 9:30 AM
+
+1. Classes and Object
+2. Inheritence
+3. Abstraction
+5. Data hiding: Creating A private variable that has restricted reach eg __num = 25
+6.

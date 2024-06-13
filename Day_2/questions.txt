@@ -1,0 +1,6 @@
+Session 1 9:30 am
+
+Python Functions:
+
+20. Declare a vairalbe Mesaage and print the len of the string
+21. program to concat two strings

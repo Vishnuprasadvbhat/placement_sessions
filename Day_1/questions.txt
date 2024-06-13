@@ -1,0 +1,33 @@
+Placement sessions
+
+Day 1  Date: 07/06/2024
+
+Questions
+
+Session 1: 9:10 am
+
+1. Write a program that takes the input and return 'hello world'
+2. write a program that takes a 2 number from the user and prints their sum.
+3. Write a program that takes 3 number from the user and print the largest  of the three.
+4. Write a program the 1st 10 fibonacci number where n is the input from the user.
+5. Write a program that prints all numbers from 1 to 100, but 1st multiples of 3, print Fizz,Multiples of 5 print Buzz,
+fun numbers: common Multiples of 3,5 print 'Fizz Buzz'
+
+Session 2: 10:30 am
+
+6. write a program for to return a palindrome
+7. write a program to sort the num in ascending order
+8. write a program to check whether the given program is prime or not.
+9. Write a function that takes list of numbers returns its average.
+10. write a program ot calculate the factorial of given number.
+
+
+prgram: session afternoon
+add two matrices
+merge two dictionaires
+check whether list is empty 
+get last element of list
+output without a newline
+reverse a number
+remove a duplicate
+convert bytes to String
