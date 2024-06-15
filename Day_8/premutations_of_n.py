@@ -9,4 +9,4 @@ def FindPerm(res,string):
 
 
 str= "DOG"
-FindPerm('',string)
+FindPerm('',str)
