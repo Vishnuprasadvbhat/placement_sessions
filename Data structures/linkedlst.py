@@ -9,10 +9,11 @@ class linkedlist:
 
   def Insert_at_beginning(self,data):
     node = Node(data,self.head)
-    self.head = node 
+    self.head = node
   
   def print(self):
     if self.head is None:
+
       print('LL is empty')
       return
 
